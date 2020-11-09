@@ -3,7 +3,6 @@ from urllib import parse
 
 s = requests.Session()
 
-
 username = ""
 password = ""
 
